@@ -9,7 +9,7 @@ var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
 var core_1 = require('@angular/core');
-var hero_1 = require('./hero');
+var hero_1 = require('./hero-form-shared/hero');
 var HeroFormComponent = (function () {
     function HeroFormComponent() {
         this.powers = ['Really Smart', 'Super Flexible',
